@@ -25,7 +25,6 @@ edit_Kestrel <- function(df){
   df$Hours = as.double(df$Hours)
   glimpse(df)
   return(df)
-  
 }
 
 #edit specific data
